@@ -8,7 +8,7 @@ gem 'pg'
 gem 'mysql2'
 gem 'inherited_resources', '1.3.1'
 gem 'simple_form', '2.0.1'
-gem 'haml', '3.1.4'
+gem 'haml', '5.0.0'
 gem 'sass', '3.2.9'
 gem "therubyracer"
 gem "less-rails"
